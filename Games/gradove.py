@@ -173,7 +173,7 @@ while True:
 
         if is_time_break:
             print('ВРЕМЕТО ИЗТЕЧЕ !!!')
-            print(f'Резултата е познати градове >> {wins}  /  непознати градове >> {loses}  за{timer}сек.')
+            print(f'Резултатът... познати градове >> {wins}  /  непознати градове >> {loses}  за {timer}сек.')
             break
 
         if is_stop_breaker:
